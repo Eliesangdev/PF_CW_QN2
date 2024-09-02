@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;// it used for the names and objects 
+using namespace std;// it used for the names and objects in standard output
 
 int main() {
     while (true)  {//my first while loop
